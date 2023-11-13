@@ -10,5 +10,11 @@
 # Link to app
 * https://sports-classifier.streamlit.app/
 
+# How to use the app?
+## Step 1: Upload the image of a sport
+![image](https://github.com/ongaunjie1/Sports-Classifier/assets/118142884/5a02e2bd-c90a-4fe5-ad03-c1a886a5d901)
+
+## Step 2: Click on the classify button
+![image](https://github.com/ongaunjie1/Sports-Classifier/assets/118142884/7bd33656-099d-40da-9708-713b6e20b11f)
 
 
